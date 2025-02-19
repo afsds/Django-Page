@@ -1,1 +1,1 @@
-# bookstore
+# Django-page
